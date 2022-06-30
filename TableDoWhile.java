@@ -11,7 +11,7 @@ class TableDoWhile
 				int j=1;
 				do
 				{
-					System.out.print(i*j+" ");
+					System.out.print(i*j+"\t");
 					j++;
 				}while(j<=5);
 			System.out.println();	
