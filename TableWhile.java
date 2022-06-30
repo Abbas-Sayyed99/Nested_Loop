@@ -11,7 +11,7 @@ class TableWhile
 				int j=1;
 				while(j<=5)
 				{
-					System.out.print(i*j+" ");
+					System.out.print(i*j+"\t");
 					j++;
 				}
 			System.out.println();	
