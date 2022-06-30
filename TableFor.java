@@ -9,7 +9,7 @@ class TableFor
 			System.out.print("\t\t\t");
 				for(int j=1; j<=5; j++)
 				{
-					System.out.print(i*j+" ");
+					System.out.print(i*j+"\t");
 				}
 			System.out.println();	
 		}
