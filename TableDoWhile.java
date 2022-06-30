@@ -4,6 +4,7 @@ class TableDoWhile
 {
 	public static void main(String[] args)
 	{
+		System.out.println();	
 		int i=1;
 		do
 		{
